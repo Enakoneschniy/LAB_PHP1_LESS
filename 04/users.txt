@@ -1,0 +1,1 @@
+a:2:{i:0;a:3:{s:4:"name";s:6:"Eugene";s:8:"password";s:32:"202cb962ac59075b964b07152d234b70";s:5:"photo";s:53:"images/content_6a00e5536443eb88330147e3846792970b.jpg";}i:1;a:3:{s:4:"name";s:9:"Eugene123";s:8:"password";s:32:"81dc9bdb52d04dc20036dbd8313ed055";s:5:"photo";s:31:"images/250px-Scratchcat.svg.png";}}
