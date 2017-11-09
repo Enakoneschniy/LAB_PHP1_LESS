@@ -24,6 +24,8 @@
 </body>
 </html>
 <?php
+ini_set('display_errors',1);
+
 	$arrBooks = [];
 	$fileContent = file_get_contents('./storage.json');
 	if($fileContent){
