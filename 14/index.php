@@ -1,11 +1,11 @@
 <?php
 ini_set('display_errors', 1);
 include './autoload.php';
-/*include './classes/Transport.php';
-include './classes/File.php';
-include './classes/HomeCtrl.php';
+/*include './app/Transport.php';
+include './app/File.php';
+include './app/HomeCtrl.php';
 
-include './classes/Route.php';*/
+include './app/Route.php';*/
 
 $t = new Transport();
 echo $t->fuel, "<br>";
